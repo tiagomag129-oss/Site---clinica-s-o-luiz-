@@ -1,0 +1,6 @@
+{
+  "name": "Clínica Veterinária São Luiz",
+  "description": "Site institucional e sistema de agendamento da Clínica Veterinária São Luiz em João Monlevade - MG.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
